@@ -3,8 +3,8 @@
 * [Problem Statement](https://github.com/Ramya-Mahi/Student-Management-System/edit/main/README.md#problem-statement)<br>
 * [Code in CPP](https://github.com/Ramya-Mahi/Student-Management-System/edit/main/README.md#code-in-cpp)<br>
 * [Steps for Executing CPP using Command Line](https://github.com/Ramya-Mahi/Student-Management-System/edit/main/README.md#steps-for-executing-cpp-using-command-line)
-* [Tools](https://github.com/Ramya-Mahi/Student-Management-System/edit/main/README.md#tools)
 * [Images of the output](https://github.com/Ramya-Mahi/Student-Management-System/edit/main/README.md#images-of-the-output)
+* [Tools](https://github.com/Ramya-Mahi/Student-Management-System/edit/main/README.md#tools)
 ## Problem Statement
 Develop a simple command-line application to manage student records using python programming language. The application should allow users to perform basic operations, such as adding students, viewing student information, and listing all students. You need to create classes and methods to implement this functionality.
 Requirements:
