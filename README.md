@@ -33,5 +33,12 @@ Check out the Solution of the problem in CPP by clicking [here]()
 Once the code in CPP is created to execute it on Command Prompt, the following steps are used:<br>
 Step 1: **Open the Command Prompt**<br>
 Step 2: **Navigate to the directory**<br>
+` cd C:\Users\ramya\Documents `<br>
+Step 3: **Compile the C++ program**<br>
+`g++ -o output Student_Management_System `<br>
+Step 4: **Run the Executable**<br>
+`output.exe`<br>
+Step 5: **Check the output**<br>
+The output of the program will be displayed in the command prompt
 
 ## Tools
