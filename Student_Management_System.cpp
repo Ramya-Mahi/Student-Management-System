@@ -18,21 +18,23 @@ public:
 };
 
 class StudentManagementSystem {
-// private:
-//     std::vector<Student> students;
-
 public:
 std::vector<Student> students;
     void addStudent(Student student) {
+        
+        //To check age
         if (student.age <= 0) {
             std::cout << "Error: Age should be a positive integer." << std::endl;
             return;
         }
+
+        //To check grade
         if (student.grade < 0.0 || student.grade > 4.0) {
             std::cout << "Error: Grade should be between 0.0 and 4.0." << std::endl;
             return;
         }
 
+        //To check unique student ID
         for (const auto& s : students) {
             if (s.studentID == student.studentID) {
                 std::cout << "Error: Student ID already exists. Please use a different ID." << std::endl;
