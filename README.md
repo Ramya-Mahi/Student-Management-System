@@ -28,5 +28,10 @@ Each student's ID is unique, and there can be multiple students with the same na
 Age should be a positive integer.<br>
 Grade should be a double between 0.0 and 4.0.<br>
 ## Code in CPP
+Check out the Solution of the problem in CPP by clicking [here]()
 ## Steps for Executing CPP using Command Line
+Once the code in CPP is created to execute it on Command Prompt, the following steps are used:<br>
+Step 1: **Open the Command Prompt**<br>
+Step 2: **Navigate to the directory**<br>
+
 ## Tools
