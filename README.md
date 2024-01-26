@@ -6,7 +6,7 @@
 * [Images of the output](https://github.com/Ramya-Mahi/Student-Management-System/edit/main/README.md#images-of-the-output)
 * [Tools](https://github.com/Ramya-Mahi/Student-Management-System/edit/main/README.md#tools)
 ## Problem Statement
-Develop a simple command-line application to manage student records using python programming language. The application should allow users to perform basic operations, such as adding students, viewing student information, and listing all students. You need to create classes and methods to implement this functionality.
+Develop a simple command-line application to manage student records using C++ programming language. The application should allow users to perform basic operations, such as adding students, viewing student information, and listing all students. You need to create classes and methods to implement this functionality.
 Requirements:
 
 1. Create a Student class with the following attributes:<br>
